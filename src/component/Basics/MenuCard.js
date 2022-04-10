@@ -1,5 +1,5 @@
 import React from "react";
-import Menu from "./menuApi";
+// import Menu from "./menuApi";
 const MenuCard = ({ menuData }) => {
   const myStyle = { color: "red" };
   return (
